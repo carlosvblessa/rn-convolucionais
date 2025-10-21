@@ -8,6 +8,8 @@ venv/
 
 mlruns/
 MNIST/
+cifar-10*
+VOC*
 
 # Logs and outputs
 **/logs/*.log
