@@ -22,6 +22,8 @@ VOC*
 *.pdf
 *full.csv
 
+vgg16_bn_pretrained_finetuned.pt
+
 # OS files
 .DS_Store
 Thumbs.db
