@@ -22,7 +22,7 @@ VOC*
 *.pdf
 *full.csv
 
-vgg16_bn_pretrained_finetuned.pt
+vgg16_bn_pretrained_finetuned*
 
 # OS files
 .DS_Store
